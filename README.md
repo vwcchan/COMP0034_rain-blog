@@ -1,2 +1,2 @@
 # COMP0034_rain-blog
-Exercise 2
+COMP0034 Week 3 Exercise 2
